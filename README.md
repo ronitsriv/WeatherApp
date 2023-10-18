@@ -1,3 +1,3 @@
 # WeatherApp
 
-This is a made on Android Studio using Java. It uses Weeather API to tell live pressure and teme\perature of a searched region.
+This is made on Android Studio using Java. It uses a Weather API to tell the live pressure and temperature of a searched region.
